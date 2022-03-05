@@ -1,0 +1,1 @@
+sequelize model:generate --name Visitor --attributes name:string,age:integer,borrow_status:boolean
